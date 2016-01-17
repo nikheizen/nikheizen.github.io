@@ -1,0 +1,714 @@
+Monster Spoilers for PosChengband Version 4.0.0
+------------------------------------------
+
+[1]: Filthy street urchin (Level 0, 't')
+  -(10)-> [14]: Agent of black market (Level 0, 't')
+    -(10)-> [44]: Novice rogue (Level 2, 'p')
+      -(50)-> [150]: Bandit (Level 8, 'p')
+        -(100)-> [199]: Tax collector (Level 10, 'p')
+          -(500)-> [376]: Master rogue (Level 23, 'p')
+            -(2500)-> [516]: Master thief (Level 34, 'p')
+              -(3000)-> [1024]: Grand master thief (Level 46, 'p')
+
+[2]: Scrawny cat (Level 0, 'f')
+  -(5)-> [62]: Wild cat (Level 2, 'f')
+    -(80)-> [198]: Panther (Level 10, 'f')
+      -(150)-> [230]: Tiger (Level 12, 'f')
+        -(500)-> [339]: Sabre-tooth tiger (Level 20, 'f')
+
+[5]: Wild rabbit (Level 0, 'r')
+  -(200)-> [205]: Vorpal bunny (Level 11, 'r')
+
+[6]: Woodsman (Level 0, 'p')
+  -(100)-> [83]: Novice ranger (Level 4, 'p')
+    -(500)-> [1039]: Ranger (Level 20, 'p')
+
+[7]: Scruffy little dog (Level 0, 'C')
+  -(6)-> [35]: Jackal (Level 1, 'C')
+    -(40)-> [196]: Wolf (Level 10, 'C')
+      -(100)-> [211]: White wolf (Level 12, 'C')
+        -(150)-> [257]: Warg (Level 14, 'C')
+          -(500)-> [347]: Werewolf (Level 20, 'C')
+
+[12]: Pitiful looking beggar (Level 0, 't')
+  -(10)-> [14]: Agent of black market (Level 0, 't')
+    -(10)-> [44]: Novice rogue (Level 2, 'p')
+      -(50)-> [150]: Bandit (Level 8, 'p')
+        -(100)-> [199]: Tax collector (Level 10, 'p')
+          -(500)-> [376]: Master rogue (Level 23, 'p')
+            -(2500)-> [516]: Master thief (Level 34, 'p')
+              -(3000)-> [1024]: Grand master thief (Level 46, 'p')
+
+[17]: Mean looking mercenary (Level 0, 't')
+  -(8)-> [43]: Novice warrior (Level 2, 'p')
+    -(70)-> [216]: Swordsman (Level 12, 'p')
+      -(400)-> [372]: Hardened warrior (Level 23, 'p')
+        -(2500)-> [532]: Dagashi (Level 35, 'p')
+
+[18]: Battle scarred veteran (Level 0, 't')
+  -(8)-> [43]: Novice warrior (Level 2, 'p')
+    -(70)-> [216]: Swordsman (Level 12, 'p')
+      -(400)-> [372]: Hardened warrior (Level 23, 'p')
+        -(2500)-> [532]: Dagashi (Level 35, 'p')
+
+[955]: Scrawny horse (Level 0, 'q')
+  -(10)-> [956]: Horse (Level 5, 'q')
+    -(70)-> [957]: Unruly horse (Level 9, 'q')
+
+[25]: White icky thing (Level 1, 'i')
+  -(7)-> [41]: Blubbering icky thing (Level 2, 'i')
+    -(12)-> [103]: Grey icky thing (Level 5, 'i')
+      -(30)-> [132]: Green icky thing (Level 7, 'i')
+        -(50)-> [155]: Bloodshot icky thing (Level 9, 'i')
+
+[27]: Giant white mouse (Level 1, 'r')
+  -(5)-> [86]: Giant white rat (Level 4, 'r')
+    -(20)-> [156]: Giant grey rat (Level 9, 'r')
+
+[37]: Fruit bat (Level 1, 'b')
+  -(20)-> [114]: Giant brown bat (Level 6, 'b')
+
+[21]: Large white snake (Level 1, 'J')
+  -(5)-> [28]: Large brown snake (Level 1, 'J')
+    -(6)-> [59]: Large yellow snake (Level 2, 'J')
+      -(15)-> [90]: Large grey snake (Level 4, 'J')
+        -(25)-> [106]: Copperhead snake (Level 5, 'J')
+          -(30)-> [119]: Rattlesnake (Level 6, 'J')
+            -(80)-> [171]: King cobra (Level 9, 'J')
+              -(80)-> [210]: Black mamba (Level 12, 'J')
+
+[31]: White worm mass (Level 1, 'w')
+  -(5)-> [58]: Green worm mass (Level 2, 'w')
+    -(8)-> [78]: Yellow worm mass (Level 3, 'w')
+      -(10)-> [89]: Blue worm mass (Level 4, 'w')
+        -(20)-> [105]: Red worm mass (Level 5, 'w')
+          -(80)-> [876]: Unstable worm mass (Level 15, 'w')
+
+[33]: Rock lizard (Level 1, 'R')
+  -(20)-> [82]: Cave lizard (Level 4, 'R')
+    -(30)-> [134]: Night lizard (Level 7, 'R')
+      -(200)-> [249]: Vlasta (Level 14, 'R')
+        -(800)-> [389]: Tyrannosaurus (Level 24, 'R')
+
+[20]: Grey mold (Level 1, 'm')
+  -(6)-> [76]: Yellow mold (Level 3, 'm')
+    -(50)-> [113]: Brown mold (Level 6, 'm')
+      -(50)-> [146]: Green mold (Level 8, 'm')
+        -(100)-> [190]: Hairy mold (Level 10, 'm')
+          -(80)-> [192]: Disenchanter mold (Level 10, 'm')
+            -(500)-> [324]: Red mold (Level 19, 'm')
+              -(5000)-> [711]: Death mold (Level 47, 'm')
+
+[36]: Soldier ant (Level 1, 'a')
+  -(5)-> [49]: Giant black ant (Level 2, 'a')
+    -(40)-> [168]: Giant red ant (Level 9, 'a')
+      -(500)-> [408]: Giant grey ant (Level 26, 'a')
+        -(800)-> [469]: Giant blue ant (Level 30, 'a')
+          -(1000)-> [473]: Giant army ant (Level 30, 'a')
+            -(1200)-> [548]: Giant fire ant (Level 35, 'a')
+
+[29]: Small kobold (Level 1, 'k')
+  -(8)-> [30]: Kobold (Level 3, 'k')
+    -(14)-> [102]: Large kobold (Level 5, 'k')
+
+[26]: Clear icky thing (Level 2, 'i')
+  -(7)-> [41]: Blubbering icky thing (Level 2, 'i')
+    -(12)-> [103]: Grey icky thing (Level 5, 'i')
+      -(30)-> [132]: Green icky thing (Level 7, 'i')
+        -(50)-> [155]: Bloodshot icky thing (Level 9, 'i')
+
+[47]: Yellow mushroom patch (Level 2, ',')
+  -(10)-> [72]: Spotted mushroom patch (Level 3, ',')
+    -(20)-> [108]: Purple mushroom patch (Level 6, ',')
+
+[42]: Metallic green centipede (Level 2, 'c')
+  -(6)-> [67]: Metallic blue centipede (Level 3, 'c')
+    -(15)-> [77]: Metallic red centipede (Level 3, 'c')
+      -(150)-> [276]: Giant clear centipede (Level 15, 'c')
+        -(600)-> [395]: Carrion crawler (Level 25, 'c')
+
+[924]: Goomba (Level 2, ',')
+  -(100)-> [951]: Buzzy beetle (Level 15, 'R')
+    -(600)-> [950]: Hammer brother (Level 22, 'h')
+
+[52]: Blue yeek (Level 2, 'y')
+  -(30)-> [141]: Brown yeek (Level 8, 'y')
+    -(120)-> [224]: Master yeek (Level 12, 'y')
+
+[51]: White harpy (Level 2, 'H')
+  -(30)-> [157]: Black harpy (Level 9, 'H')
+
+[56]: Giant green frog (Level 2, 'R')
+  -(30)-> [121]: Giant pink frog (Level 7, 'R')
+
+[45]: Novice priest (Level 2, 'p')
+  -(100)-> [225]: Priest (Level 12, 'p')
+    -(800)-> [445]: Clairvoyant (Level 28, 'p')
+      -(6000)-> [637]: Archpriest (Level 40, 'p')
+        -(8000)-> [689]: High priest (Level 44, 'p')
+
+[46]: Novice mage (Level 2, 'p')
+  -(100)-> [240]: Illusionist (Level 15, 'p')
+    -(500)-> [449]: Mage (Level 28, 'p')
+      -(2500)-> [571]: Ipsissimus (Level 36, 'p')
+        -(6000)-> [638]: Sorcerer (Level 40, 'p')
+          -(20000)-> [1026]: Old sorcerer (Level 69, 'p')
+
+[60]: Cave spider (Level 2, 'S')
+  -(30)-> [127]: Wood spider (Level 7, 'S')
+    -(100)-> [277]: Mirkwood spider (Level 15, 'S')
+
+[61]: Crow (Level 2, 'B')
+  -(10)-> [68]: Raven (Level 3, 'B')
+    -(100)-> [151]: Hunting hawk of Julian (Level 8, 'B')
+      -(50)-> [172]: Eagle (Level 9, 'B')
+        -(400)-> [335]: Great eagle (Level 35, 'B')
+
+[48]: White jelly (Level 2, 'j')
+  -(6)-> [66]: Yellow jelly (Level 3, 'j')
+    -(20)-> [73]: Silver jelly (Level 3, 'j')
+      -(25)-> [84]: Blue jelly (Level 4, 'j')
+        -(30)-> [101]: Green jelly (Level 5, 'j')
+          -(40)-> [131]: Red jelly (Level 7, 'j')
+            -(150)-> [212]: Grape jelly (Level 12, 'j')
+              -(200)-> [245]: Ochre jelly (Level 13, 'j')
+                -(400)-> [286]: Gelatinous cube (Level 16, 'j')
+                  -(800)-> [541]: Acidic cytoplasm (Level 35, 'j')
+                    -(2000)-> [585]: Black pudding (Level 37, 'j')
+
+[50]: Salamander (Level 2, 'R')
+  -(50)-> [143]: Giant salamander (Level 8, 'R')
+
+[64]: Green ooze (Level 3, 'j')
+  -(15)-> [99]: Blue ooze (Level 5, 'j')
+
+[74]: Scruffy looking hobbit (Level 3, 'h')
+  -(5000)-> [539]: Halfling slinger (Level 35, 'h')
+
+[65]: Poltergeist (Level 3, 'G')
+  -(10)-> [133]: Lost soul (Level 7, 'G')
+    -(150)-> [231]: Moaning spirit (Level 12, 'G')
+      -(600)-> [477]: Ghost (Level 31, 'G')
+        -(800)-> [508]: Spectre (Level 33, 'G')
+          -(1500)-> [534]: Dread (Level 35, 'G')
+            -(6000)-> [690]: Dreadmaster (Level 44, 'G')
+              -(30000)-> [774]: Shadowlord (Level 62, 'G')
+
+[70]: Piranha (Level 3, 'l')
+  -(40)-> [187]: Giant piranha (Level 10, 'l')
+
+[75]: Giant white ant (Level 3, 'a')
+  -(40)-> [168]: Giant red ant (Level 9, 'a')
+    -(500)-> [408]: Giant grey ant (Level 26, 'a')
+      -(800)-> [469]: Giant blue ant (Level 30, 'a')
+        -(1000)-> [473]: Giant army ant (Level 30, 'a')
+          -(1200)-> [548]: Giant fire ant (Level 35, 'a')
+
+[71]: Black naga (Level 3, 'n')
+  -(40)-> [94]: Green naga (Level 5, 'n')
+    -(40)-> [130]: Red naga (Level 7, 'n')
+      -(200)-> [265]: Dark naga (Level 15, 'n')
+        -(1000)-> [436]: Spirit naga (Level 28, 'n')
+
+[85]: Creeping copper coins (Level 4, '$')
+  -(40)-> [117]: Creeping silver coins (Level 6, '$')
+    -(50)-> [195]: Creeping gold coins (Level 10, '$')
+      -(150)-> [239]: Creeping mithril coins (Level 13, '$')
+        -(500)-> [423]: Creeping adamantite coins (Level 27, '$')
+
+[87]: Snotling (Level 4, 'o')
+  -(30)-> [118]: Snaga (Level 6, 'o')
+
+[953]: Broken death sword (Level 4, '|')
+  -(130)-> [107]: Death sword (Level 8, '|')
+
+[1053]: Novice mindcrafter (Level 4, 'p')
+  -(600)-> [1055]: Mindcrafter (Level 22, 'p')
+    -(5000)-> [1056]: Master mindcrafter (Level 40, 'p')
+
+[97]: Novice paladin (Level 4, 'p')
+  -(500)-> [1038]: Paladin (Level 20, 'p')
+    -(800)-> [938]: White knight (Level 28, 'p')
+      -(6000)-> [699]: Ultra-elite paladin (Level 45, 'p')
+        -(10000)-> [1037]: Knight templar (Level 52, 'p')
+
+[93]: Novice mage (Level 5, 'p')
+  -(100)-> [240]: Illusionist (Level 15, 'p')
+    -(500)-> [449]: Mage (Level 28, 'p')
+      -(2500)-> [571]: Ipsissimus (Level 36, 'p')
+        -(6000)-> [638]: Sorcerer (Level 40, 'p')
+          -(20000)-> [1026]: Old sorcerer (Level 69, 'p')
+
+[100]: Green glutton ghost (Level 5, 'G')
+  -(15)-> [133]: Lost soul (Level 7, 'G')
+    -(150)-> [231]: Moaning spirit (Level 12, 'G')
+      -(600)-> [477]: Ghost (Level 31, 'G')
+        -(800)-> [508]: Spectre (Level 33, 'G')
+          -(1500)-> [534]: Dread (Level 35, 'G')
+            -(6000)-> [690]: Dreadmaster (Level 44, 'G')
+              -(30000)-> [774]: Shadowlord (Level 62, 'G')
+
+[110]: Novice warrior (Level 6, 'p')
+  -(70)-> [216]: Swordsman (Level 12, 'p')
+    -(400)-> [372]: Hardened warrior (Level 23, 'p')
+      -(2500)-> [532]: Dagashi (Level 35, 'p')
+
+[109]: Novice priest (Level 6, 'p')
+  -(100)-> [225]: Priest (Level 12, 'p')
+    -(800)-> [445]: Clairvoyant (Level 28, 'p')
+      -(6000)-> [637]: Archpriest (Level 40, 'p')
+        -(8000)-> [689]: High priest (Level 44, 'p')
+
+[116]: Novice archer (Level 6, 'p')
+  -(140)-> [219]: Knight archer (Level 12, 'p')
+
+[120]: Giant slug (Level 6, 'w')
+  -(800)-> [404]: Wereworm (Level 25, 'w')
+
+[125]: Rotting corpse (Level 7, 'z')
+  -(50)-> [229]: Zombified human (Level 12, 'z')
+
+[122]: Dark elf (Level 7, 'h')
+  -(700)-> [348]: Dark elven lord (Level 20, 'h')
+
+[148]: Lemure (Level 8, 'u')
+  -(150)-> [280]: Homonculus (Level 15, 'u')
+    -(200)-> [294]: Quasit (Level 16, 'u')
+      -(10000)-> [649]: Death quasit (Level 40, 'u')
+
+[142]: Novice ranger (Level 8, 'p')
+  -(500)-> [1039]: Ranger (Level 20, 'p')
+
+[1054]: Novice mindcrafter (Level 8, 'p')
+  -(600)-> [1055]: Mindcrafter (Level 22, 'p')
+    -(5000)-> [1056]: Master mindcrafter (Level 40, 'p')
+
+[147]: Novice paladin (Level 8, 'p')
+  -(500)-> [1038]: Paladin (Level 20, 'p')
+    -(800)-> [938]: White knight (Level 28, 'p')
+      -(6000)-> [699]: Ultra-elite paladin (Level 45, 'p')
+        -(10000)-> [1037]: Knight templar (Level 52, 'p')
+
+[997]: Chiokovo (Level 8, 'B')
+  -(600)-> [998]: Black Chiokovo (Level 25, 'B')
+
+[145]: Carnivorous flying monkey (Level 8, 'H')
+  -(100)-> [188]: Owlbear (Level 10, 'H')
+
+[173]: War bear (Level 9, 'q')
+  -(100)-> [191]: Grizzly bear (Level 10, 'q')
+    -(300)-> [1028]: Mad bear (Level 15, 'q')
+      -(1000)-> [547]: Mumak (Level 35, 'q')
+        -(50000)-> [716]: Behemoth (Level 64, 'H')
+
+[154]: Yeti (Level 9, 'Y')
+  -(100)-> [983]: Hibagon (Level 14, 'Y')
+    -(400)-> [343]: Sasquatch (Level 20, 'Y')
+
+[163]: Baby blue dragon (Level 9, 'd')
+  -(700)-> [459]: Young blue dragon (Level 29, 'd')
+    -(4000)-> [560]: Mature blue dragon (Level 36, 'd')
+      -(10000)-> [601]: Ancient blue dragon (Level 38, 'D')
+        -(100000)-> [728]: Great Storm Wyrm (Level 58, 'D')
+
+[164]: Baby white dragon (Level 9, 'd')
+  -(700)-> [460]: Young white dragon (Level 29, 'd')
+    -(4000)-> [549]: Mature white dragon (Level 35, 'd')
+      -(10000)-> [617]: Ancient white dragon (Level 39, 'D')
+        -(100000)-> [741]: Great Ice Wyrm (Level 54, 'D')
+
+[165]: Baby green dragon (Level 9, 'd')
+  -(700)-> [461]: Young green dragon (Level 29, 'd')
+    -(4000)-> [561]: Mature green dragon (Level 36, 'd')
+      -(10000)-> [618]: Ancient green dragon (Level 39, 'D')
+        -(100000)-> [890]: Great Venom Wyrm (Level 55, 'D')
+
+[166]: Baby black dragon (Level 9, 'd')
+  -(750)-> [546]: Young black dragon (Level 35, 'd')
+    -(4000)-> [592]: Mature black dragon (Level 37, 'd')
+      -(10000)-> [624]: Ancient black dragon (Level 39, 'D')
+        -(100000)-> [1066]: Great Bile Wyrm (Level 54, 'D')
+
+[167]: Baby red dragon (Level 9, 'd')
+  -(850)-> [563]: Young red dragon (Level 36, 'd')
+    -(5000)-> [589]: Mature red dragon (Level 37, 'd')
+      -(10000)-> [644]: Ancient red dragon (Level 40, 'D')
+        -(100000)-> [756]: Great Hell Wyrm (Level 55, 'D')
+
+[197]: Giant fruit fly (Level 10, 'I')
+  -(70)-> [289]: Hummerhorn (Level 16, 'I')
+
+[189]: Blue horror (Level 10, 'u')
+  -(200)-> [242]: Pink horror (Level 16, 'u')
+
+[176]: Giant white tick (Level 10, 'S')
+  -(500)-> [411]: Giant red tick (Level 26, 'S')
+
+[175]: Giant spider (Level 10, 'S')
+  -(120)-> [275]: Giant tarantula (Level 15, 'S')
+
+[178]: Dark elven mage (Level 10, 'h')
+  -(700)-> [375]: Dark elven warlock (Level 23, 'h')
+    -(20000)-> [657]: Dark elven sorceror (Level 41, 'h')
+      -(30000)-> [886]: Dark elven shade (Level 51, 'h')
+
+[182]: Dark elven warrior (Level 10, 'h')
+  -(700)-> [348]: Dark elven lord (Level 20, 'h')
+
+[193]: Pseudo dragon (Level 10, 'd')
+  -(1200)-> [504]: Ethereal drake (Level 33, 'd')
+    -(20000)-> [676]: Ethereal dragon (Level 43, 'D')
+
+[203]: Chaos shapechanger (Level 11, 'H')
+  -(350)-> [318]: Chaos beastman (Level 18, 'H')
+
+[204]: Baby multi-hued dragon (Level 11, 'd')
+  -(1000)-> [556]: Young multi-hued dragon (Level 36, 'd')
+    -(7000)-> [593]: Mature multi-hued dragon (Level 38, 'd')
+      -(20000)-> [675]: Ancient multi-hued dragon (Level 43, 'D')
+        -(300000)-> [790]: Great Wyrm of Many Colours (Level 68, 'D')
+
+[233]: Spotted jelly (Level 12, 'j')
+  -(200)-> [245]: Ochre jelly (Level 13, 'j')
+    -(400)-> [286]: Gelatinous cube (Level 16, 'j')
+      -(800)-> [541]: Acidic cytoplasm (Level 35, 'j')
+        -(2000)-> [585]: Black pudding (Level 37, 'j')
+
+[218]: Gazer (Level 12, 'e')
+  -(300)-> [488]: Spectator (Level 32, 'e')
+    -(4000)-> [603]: Beholder (Level 38, 'e')
+      -(8000)-> [664]: Undead beholder (Level 42, 'e')
+        -(40000)-> [781]: Ultimate beholder (Level 66, 'e')
+
+[220]: Ixitxachitl (Level 12, 'l')
+  -(600)-> [406]: Vampiric ixitxachitl (Level 26, 'l')
+
+[227]: Air spirit (Level 12, 'E')
+  -(800)-> [526]: Air elemental (Level 34, 'E')
+
+[232]: Frumious bandersnatch (Level 12, 'c')
+  -(600)-> [395]: Carrion crawler (Level 25, 'c')
+
+[226]: Dark elven priest (Level 12, 'h')
+  -(600)-> [400]: Dark elven druid (Level 25, 'h')
+
+[236]: Killer brown beetle (Level 13, 'K')
+  -(400)-> [378]: Killer white beetle (Level 23, 'K')
+    -(1000)-> [421]: Killer red beetle (Level 27, 'K')
+      -(800)-> [474]: Killer slicer beetle (Level 30, 'K')
+        -(800)-> [478]: Death watch beetle (Level 31, 'K')
+          -(2000)-> [586]: Killer iridescent beetle (Level 37, 'K')
+
+[238]: Ogre (Level 13, 'O')
+  -(300)-> [262]: Black ogre (Level 15, 'O')
+    -(400)-> [907]: Ogre warrior (Level 21, 'O')
+      -(800)-> [415]: Cave ogre (Level 26, 'O')
+
+[241]: Druid (Level 13, 'p')
+  -(700)-> [370]: Jade monk (Level 30, 'p')
+
+[235]: Mongbat (Level 13, 'b')
+  -(700)-> [877]: Bat of Gorgoroth (Level 28, 'b')
+
+[259]: Giant flea (Level 14, 'I')
+  -(200)-> [289]: Hummerhorn (Level 16, 'I')
+
+[246]: Software bug (Level 14, 'I')
+  -(1000)-> [921]: Internet Exploder (Level 50, 'e')
+
+[258]: Cheerful leprechaun (Level 14, 'h')
+  -(2000)-> [700]: Leprechaun fanatic (Level 46, 'h')
+
+[247]: Lurker (Level 14, '.')
+  -(1200)-> [565]: Trapper (Level 36, '.')
+
+[269]: Guardian naga (Level 15, 'n')
+  -(800)-> [436]: Spirit naga (Level 28, 'n')
+
+[292]: Hammerhead (Level 16, 'l')
+  -(300)-> [317]: White shark (Level 18, 'l')
+    -(400)-> [386]: Great white shark (Level 24, 'l')
+
+[284]: Rust monster (Level 16, 'q')
+  -(500)-> [399]: Disenchanter beast (Level 25, 'q')
+    -(8000)-> [985]: Unicorn (Level 39, 'q')
+      -(200000)-> [989]: Kirin (Level 76, 'q')
+
+[290]: Lizardman (Level 16, 'h')
+  -(800)-> [332]: Lizard king (Level 20, 'h')
+
+[296]: Imp (Level 17, 'u')
+  -(1000)-> [566]: Bodak (Level 36, 'u')
+
+[303]: Water spirit (Level 17, 'E')
+  -(1200)-> [512]: Water elemental (Level 33, 'E')
+
+[304]: Giant red scorpion (Level 17, 'S')
+  -(400)-> [369]: Giant yellow scorpion (Level 22, 'S')
+    -(700)-> [524]: Giant grey scorpion (Level 34, 'S')
+
+[305]: Earth spirit (Level 17, 'E')
+  -(1200)-> [525]: Earth elemental (Level 34, 'E')
+
+[297]: Forest troll (Level 17, 'T')
+  -(500)-> [401]: Stone troll (Level 25, 'T')
+    -(800)-> [424]: Algroth (Level 27, 'T')
+      -(1200)-> [454]: Ice troll (Level 28, 'T')
+        -(1200)-> [463]: Aklash (Level 29, 'T')
+          -(1500)-> [491]: Half-troll (Level 33, 'T')
+            -(1800)-> [496]: Cave troll (Level 33, 'T')
+              -(3000)-> [538]: Olog (Level 35, 'T')
+                -(4000)-> [620]: Eldrak (Level 39, 'T')
+                  -(3000)-> [621]: Ettin (Level 39, 'T')
+                    -(5000)-> [894]: Troll king (Level 40, 'T')
+                      -(18000)-> [875]: Storm troll (Level 51, 'T')
+
+[301]: 2-headed hydra (Level 17, 'M')
+  -(1200)-> [387]: 4-headed hydra (Level 24, 'M')
+    -(2500)-> [440]: 5-headed hydra (Level 28, 'M')
+      -(3500)-> [614]: 7-headed hydra (Level 39, 'M')
+        -(9000)-> [635]: 9-headed hydra (Level 40, 'M')
+          -(11000)-> [688]: 11-headed hydra (Level 44, 'M')
+
+[255]: Hill giant (Level 17, 'P')
+  -(400)-> [321]: Stone giant (Level 18, 'P')
+    -(20000)-> [709]: Hru (Level 56, 'P')
+
+[911]: Quartz vein (Level 18, '%')
+  -(500)-> [902]: Magma intrusion (Level 25, '%')
+    -(700)-> [898]: Granite wall (Level 30, '#')
+
+[306]: Fire spirit (Level 18, 'E')
+  -(1200)-> [510]: Fire elemental (Level 33, 'E')
+    -(2400)-> [584]: Magma elemental (Level 37, 'E')
+
+[329]: Huorn (Level 19, '#')
+  -(15000)-> [708]: Ent (Level 46, '#')
+
+[336]: Livingstone (Level 20, '#')
+  -(700)-> [448]: Lesser wall monster (Level 28, '#')
+    -(2000)-> [718]: Greater wall monster (Level 50, '#')
+
+[341]: Chimera (Level 20, 'H')
+  -(800)-> [433]: Gorgimera (Level 27, 'H')
+
+[345]: Whale (Level 20, 'l')
+  -(3000)-> [594]: Sky whale (Level 38, 'l')
+
+[278]: Frost giant (Level 20, 'P')
+  -(25000)-> [1125]: Ice giant (Level 50, 'P')
+
+[288]: Fire giant (Level 21, 'P')
+  -(2000)-> [893]: Efreeti (Level 40, 'P')
+    -(25000)-> [1126]: Elder fire giant (Level 50, 'P')
+
+[371]: Black ooze (Level 23, 'j')
+  -(1000)-> [626]: Spawn of Ubbo-Sathla (Level 40, 'j')
+
+[377]: Red dragon bat (Level 23, 'b')
+  -(2000)-> [484]: Doombat (Level 32, 'b')
+
+[394]: Banshee (Level 24, 'G')
+  -(600)-> [477]: Ghost (Level 31, 'G')
+    -(800)-> [508]: Spectre (Level 33, 'G')
+      -(1500)-> [534]: Dread (Level 35, 'G')
+        -(6000)-> [690]: Dreadmaster (Level 44, 'G')
+          -(30000)-> [774]: Shadowlord (Level 62, 'G')
+
+[390]: Mummified human (Level 24, 'z')
+  -(4000)-> [522]: Greater mummy (Level 34, 'z')
+
+[381]: Kouko (Level 24, 'W')
+  -(1000)-> [416]: White wraith (Level 26, 'W')
+    -(2000)-> [554]: Grey wraith (Level 36, 'W')
+      -(5000)-> [607]: Black wraith (Level 38, 'W')
+        -(5000)-> [612]: Nether wraith (Level 39, 'W')
+
+[899]: Fire troll (Level 25, 'T')
+  -(800)-> [424]: Algroth (Level 27, 'T')
+    -(1200)-> [454]: Ice troll (Level 28, 'T')
+      -(1200)-> [463]: Aklash (Level 29, 'T')
+        -(1500)-> [491]: Half-troll (Level 33, 'T')
+          -(1800)-> [496]: Cave troll (Level 33, 'T')
+            -(3000)-> [538]: Olog (Level 35, 'T')
+              -(4000)-> [620]: Eldrak (Level 39, 'T')
+                -(3000)-> [621]: Ettin (Level 39, 'T')
+                  -(5000)-> [894]: Troll king (Level 40, 'T')
+                    -(18000)-> [875]: Storm troll (Level 51, 'T')
+
+[903]: Small kraken (Level 25, 'l')
+  -(70000)-> [740]: Lesser kraken (Level 54, 'l')
+    -(100000)-> [775]: Greater kraken (Level 63, 'l')
+
+[418]: Ghoul (Level 26, 'z')
+  -(1000)-> [483]: Ghoulking (Level 32, 'z')
+
+[417]: Angel (Level 26, 'A')
+  -(2000)-> [456]: Archangel (Level 29, 'A')
+    -(2500)-> [511]: Cherub (Level 33, 'A')
+      -(5000)-> [605]: Seraph (Level 38, 'A')
+        -(8000)-> [661]: Archon (Level 41, 'A')
+          -(50000)-> [942]: Planetar (Level 50, 'A')
+            -(100000)-> [943]: Solar (Level 64, 'A')
+
+[427]: Headless (Level 27, 'H')
+  -(6000)-> [653]: Giant headless (Level 41, 'H')
+
+[432]: Vampire (Level 27, 'V')
+  -(2000)-> [520]: Master vampire (Level 34, 'V')
+    -(5000)-> [623]: Vampire lord (Level 39, 'V')
+      -(20000)-> [1058]: Elder vampire (Level 54, 'V')
+
+[442]: Black knight (Level 28, 'p')
+  -(1800)-> [497]: Anti-paladin (Level 33, 'p')
+    -(5000)-> [597]: Death knight (Level 38, 'p')
+      -(15000)-> [731]: Hell knight (Level 52, 'p')
+
+[453]: Basilisk (Level 28, 'R')
+  -(10000)-> [668]: Greater basilisk (Level 42, 'R')
+
+[444]: Cyclops (Level 28, 'P')
+  -(2000)-> [490]: Biclops (Level 33, 'P')
+
+[462]: Young bronze dragon (Level 29, 'd')
+  -(4000)-> [562]: Mature bronze dragon (Level 36, 'd')
+    -(10000)-> [602]: Ancient bronze dragon (Level 38, 'D')
+
+[455]: Dhole (Level 29, 'w')
+  -(4000)-> [619]: Chthonian (Level 39, 'w')
+
+[1120]: Fearmaster (Level 29, 'p')
+  -(120000)-> [1121]: Grand Fearlord (Level 65, 'p')
+
+[1011]: Silver Angel (Level 30, 'A')
+  -(10000)-> [1010]: Golden Angel (Level 50, 'A')
+
+[465]: Skeleton troll (Level 30, 's')
+  -(1500)-> [500]: Giant skeleton troll (Level 33, 's')
+
+[466]: Skeletal tyrannosaurus (Level 30, 'R')
+  -(40000)-> [705]: Spectral tyrannosaurus (Level 46, 'R')
+
+[470]: Grave wight (Level 30, 'W')
+  -(1500)-> [499]: Barrow wight (Level 33, 'W')
+    -(4000)-> [604]: Emperor wight (Level 38, 'W')
+
+[349]: Cloud giant (Level 30, 'P')
+  -(1500)-> [487]: Storm giant (Level 35, 'P')
+
+[482]: Giant squid (Level 32, 'l')
+  -(50000)-> [740]: Lesser kraken (Level 54, 'l')
+    -(100000)-> [775]: Greater kraken (Level 63, 'l')
+
+[509]: Water troll (Level 33, 'T')
+  -(2000)-> [538]: Olog (Level 35, 'T')
+    -(4000)-> [620]: Eldrak (Level 39, 'T')
+      -(3000)-> [621]: Ettin (Level 39, 'T')
+        -(5000)-> [894]: Troll king (Level 40, 'T')
+          -(18000)-> [875]: Storm troll (Level 51, 'T')
+
+[498]: Logrus master (Level 33, 'p')
+  -(150000)-> [737]: Lord of Chaos (Level 60, 'p')
+
+[471]: Shadow drake (Level 33, 'd')
+  -(15000)-> [643]: Death drake (Level 40, 'D')
+    -(250000)-> [874]: Spectral Wyrm (Level 77, 'D')
+
+[501]: Chaos drake (Level 33, 'd')
+  -(150000)-> [783]: Great Wyrm of Chaos (Level 67, 'D')
+
+[502]: Law drake (Level 33, 'd')
+  -(150000)-> [784]: Great Wyrm of Law (Level 67, 'D')
+
+[503]: Balance drake (Level 33, 'd')
+  -(180000)-> [785]: Great Wyrm of Balance (Level 72, 'D')
+
+[492]: Ivory monk (Level 33, 'p')
+  -(2000)-> [915]: Mystic (Level 33, 'p')
+    -(10000)-> [916]: Master mystic (Level 50, 'p')
+      -(50000)-> [917]: Grand master mystic (Level 59, 'p')
+
+[527]: Doom drake (Level 34, 'd')
+  -(3000)-> [589]: Mature red dragon (Level 37, 'd')
+    -(10000)-> [644]: Ancient red dragon (Level 40, 'D')
+      -(100000)-> [756]: Great Hell Wyrm (Level 55, 'D')
+
+[518]: Lich (Level 34, 'L')
+  -(4000)-> [577]: Crypt thing (Level 37, 'L')
+    -(10000)-> [658]: Master lich (Level 41, 'L')
+      -(30000)-> [742]: Demilich (Level 54, 'L')
+        -(80000)-> [776]: Archlich (Level 64, 'L')
+
+[529]: Malicious leprechaun (Level 35, 'h')
+  -(500)-> [700]: Leprechaun fanatic (Level 46, 'h')
+
+[550]: Xorn (Level 36, 'X')
+  -(4000)-> [639]: Xaren (Level 40, 'X')
+
+[568]: Mezzodaemon (Level 36, 'u')
+  -(50000)-> [719]: Nycadaemon (Level 50, 'U')
+    -(100000)-> [812]: Warp demon (Level 76, 'U')
+
+[559]: Young gold dragon (Level 36, 'd')
+  -(6000)-> [590]: Mature gold dragon (Level 37, 'd')
+    -(12000)-> [645]: Ancient gold dragon (Level 40, 'D')
+
+[591]: Crystal drake (Level 37, 'd')
+  -(11000)-> [646]: Great crystal drake (Level 40, 'D')
+
+[941]: Bone dragon (Level 37, 'D')
+  -(30000)-> [701]: Dracolich (Level 46, 'D')
+
+[641]: Minotaur (Level 40, 'H')
+  -(12000)-> [723]: Maulotaur (Level 50, 'H')
+
+[634]: Lesser titan (Level 40, 'P')
+  -(25000)-> [702]: Greater titan (Level 46, 'P')
+
+[1124]: Rock giant (Level 40, 'P')
+  -(25000)-> [709]: Hru (Level 56, 'P')
+
+[667]: Dread (Level 42, 'G')
+  -(6000)-> [690]: Dreadmaster (Level 44, 'G')
+    -(30000)-> [774]: Shadowlord (Level 62, 'G')
+
+[673]: Mumak (Level 43, 'q')
+  -(50000)-> [716]: Behemoth (Level 64, 'H')
+
+[940]: Lesser Balrog (Level 44, 'U')
+  -(30000)-> [720]: Greater Balrog (Level 50, 'U')
+
+[1048]: Stone dragon (Level 45, 'D')
+  -(40000)-> [1049]: Steel dragon (Level 55, 'D')
+
+[694]: Lesser black reaver (Level 45, 'L')
+  -(100000)-> [798]: Black reaver (Level 71, 'L')
+
+[1129]: Soul (Level 50, 'G')
+  -(10)-> [14]: Agent of black market (Level 0, 't')
+    -(10)-> [44]: Novice rogue (Level 2, 'p')
+      -(50)-> [150]: Bandit (Level 8, 'p')
+        -(100)-> [199]: Tax collector (Level 10, 'p')
+          -(500)-> [376]: Master rogue (Level 23, 'p')
+            -(2500)-> [516]: Master thief (Level 34, 'p')
+              -(3000)-> [1024]: Grand master thief (Level 46, 'p')
+
+[1131]: Mimic (Level 50, '@')
+  -(10)-> [14]: Agent of black market (Level 0, 't')
+    -(10)-> [44]: Novice rogue (Level 2, 'p')
+      -(50)-> [150]: Bandit (Level 8, 'p')
+        -(100)-> [199]: Tax collector (Level 10, 'p')
+          -(500)-> [376]: Master rogue (Level 23, 'p')
+            -(2500)-> [516]: Master thief (Level 34, 'p')
+              -(3000)-> [1024]: Grand master thief (Level 46, 'p')
+
+[704]: Fastitocalon (Level 51, 'D')
+  -(200000)-> [782]: Leviathan (Level 76, 'D')
+
+[748]: Hand druj (Level 55, 's')
+  -(20000)-> [749]: Eye druj (Level 55, 's')
+    -(50000)-> [750]: Skull druj (Level 65, 's')
+
+[793]: Sky Drake (Level 74, 'D')
+  -(600000)-> [847]: Great Wyrm of Power (Level 90, 'D')
+
