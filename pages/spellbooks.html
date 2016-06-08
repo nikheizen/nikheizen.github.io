@@ -295,7 +295,13 @@ Then proceeds through a number of checks as follows:
     4. If neither 2, nor 3 triggered, it does 1-250 damage. Ball radius is (3 + (level / 25)). 
 
 
-<a name="call_the_void"></a>
+<a name="call_the_void"></a>Call the Void checks if there are any adjacent, non-permanent walls. If there are none, it has the first effect, otherwise it has the second effect.
+    > The first effect fires a different random one of the following in each of 8 directions from the player's position.
+        > Rocket which does 175 shards damage in 2 radius.
+        > Rocket which does 175 mana damage in 3 radius.
+        > Rocket which does 175 radiation in 4 radius.
+    > The second effect is Destruction in radius (15 + level + 0-11) with power (level * 8). Then take 1d150 + 100 damage.
+        > There is a 1/666 chance of the Destruction effect not occuring, you will still take the damage though.
 
 <a name="natures_wrath"></a>Nature's wrath effects are randomly chosen from the following:
     > (4 * level + 1y) untyped damage in line of sight & Earthquake & ball which does (200 + (2 * level) + 2y) disintegration damage in (1 + level/12) radius.
