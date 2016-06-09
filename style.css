@@ -1,0 +1,21 @@
+body.grey   {color: #808080;
+             background-color: black;}
+body.white  {color: white;
+             background-color: black;}
+a.dec       {color: #CD2626;}
+a.back      {color: #CD2626;
+             position: fixed;
+             text-align: top-right;
+             top: 3px;
+             right: 5px;}
+a.foot      {color: #808080;
+             text-decoration: none;}
+span.hilight{color: #CD2626;}
+footer      {color: #808080;
+             position: fixed;
+             text-align: center;
+             bottom: 1px;
+             width: 100%;}
+h1          {color #808080;
+             size: 100%;}
+
