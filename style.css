@@ -3,6 +3,8 @@ body.grey   {color: #808080;
 body.white  {color: white;
              background-color: black;}
 a.dec       {color: #CD2626;}
+a.nodec     {color: #CD2626;
+             text-decoration: none;}
 a.back      {color: #CD2626;
              position: fixed;
              text-align: top-right;
