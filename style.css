@@ -13,6 +13,7 @@ a.back      {color: #CD2626;
 a.foot      {color: #808080;
              text-decoration: none;}
 span.hilight{color: #CD2626;}
+span.hilite {color: #808080;}
 footer      {color: #808080;
              position: fixed;
              text-align: center;
