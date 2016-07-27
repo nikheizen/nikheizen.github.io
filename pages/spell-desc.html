@@ -65,7 +65,35 @@ Then proceeds through a number of checks as follows:
     > Ball which does (level * 5) sound damage in (1 + level/12) radius.
     > Ball which does (level * 4) gravity damage in (1 + level/12) radius.
     > 3 balls which each do (240 + level * 2 + 2y) of each lightning, fire, and cold, in (1 + level/12) radius. All balls strike the same area. 
-    > Fires 1-3 balls which do (70 + level) shards damage in 1 radius. <sup>[Note: the code here is kind of hard to understand, please submit an issue if this is wrong]</sup></pre>
-    </body>
+    > Fires 1-3 balls which do (70 + level) shards damage in 1 radius. <sup>[Note: the code here is kind of hard to understand, please submit an issue if this is wrong]</sup>
+
+<a name="shuffle"></a><span class="hilight">Shuffle</span> rolls 1d110 + (level / 5) if you are a rogue, high mage, or sorcerer (otherwise 1d120).
+The Chance virtue also influences the results in a very minor fashion.
+If the result is less than the following numbers, it has the listed effect:
+	7: Summons 1d3 very dangerous monsters (based on depth).
+	14: Summons	a demon, possibly unique (based on depth).
+	18: Procs the Ancient Foul Curse effect.
+	22: Alerts and hastes all nearby monsters.
+	26: Lowers your intelligence and wisdom.
+	30: Summons a random hostile monster or group of hostile monsters from dungeon level * 3/2. Can create a unique.
+	33: Darkness in 10 radius.
+	38: Triggers <a href="" class="nodec">wild_magic</a> effects, rolling up to 32.
+	40: Teleport with range 10.
+	44: Blesses the caster.
+	47: Teleport with range 100.
+	52: Teleport with range 200.
+	60: Randomly removes nearby walls.
+	72: Causes your melee attacks to have a chance to put monsters to sleep.
+	80: Earthquake with radius 5.
+	82: Summons a friendly monster.
+	84: Summons a friendly monster.
+	86: Summons a friendly monster.
+	88: Summons a friendly monster.
+	96: Charms a target monster.
+	101: Creates stone walls in all adjacent squares.
+	111: Rerolls life rating (and skill caps?) and removes all mutations.
+	120: Maps and detects traps/doors/stairs/objects on the whole level. Detects all nearby monsters.
+If you roll higher than this (only possible via having a high chance virtue). You get XP based on how much you need to level up. With a minimun of 5000.</pre>
+	</body>
 </html>
 
